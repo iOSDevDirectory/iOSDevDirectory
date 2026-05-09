@@ -2724,6 +2724,13 @@
             "x_url": "https://x.com/matrejek"
           },
           {
+            "title": "Mateusz Nadolski's Blog",
+            "author": "Mateusz Nadolski",
+            "site_url": "https://nadol.dev",
+            "feed_url": "https://nadol.dev/rss.xml",
+            "x_url": "https://x.com/mateusznadolski"
+          },
+          {
             "title": "Mateusz Stawecki’s Blog",
             "author": "Mateusz Stawecki",
             "site_url": "https://stawecki.wordpress.com",
