@@ -4744,6 +4744,13 @@
             "x_url": "https://x.com/mskarki"
           },
           {
+            "title": "Yuedu Reader Engineering",
+            "author": "Chang Jui-Lin",
+            "site_url": "https://chang-jui-lin.github.io/Yuedu-reader/",
+            "feed_url": "https://chang-jui-lin.github.io/Yuedu-reader/feed.xml",
+            "github_url": "https://github.com/CHANG-JUI-LIN"
+          },
+          {
             "title": "Yunus Koçyiğit - Medium",
             "author": "Yunus Koçyiğit",
             "site_url": "https://kocyigityunus.medium.com",
@@ -4776,13 +4783,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
-          },
-          {
-            "title": "Yuedu Reader Engineering",
-            "author": "Chang Jui-Lin",
-            "site_url": "https://chang-jui-lin.github.io/Yuedu-reader/",
-            "feed_url": "https://chang-jui-lin.github.io/Yuedu-reader/feed.xml",
-            "github_url": "https://github.com/CHANG-JUI-LIN"
           }
         ]
       },
