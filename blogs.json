@@ -1434,8 +1434,8 @@
           {
             "title": "The Dodo Developer",
             "author": "Ben Dodson",
-            "site_url": "https://www.thedododeveloper.com/",
-            "feed_url": "https://www.thedododeveloper.com/feed",
+            "site_url": "https://newsletter.bendodson.com/",
+            "feed_url": "https://newsletter.bendodson.com/",
             "x_url": "https://x.com/bendodson"
           },
           {
@@ -5783,8 +5783,8 @@
           {
             "title": "Under the Radar",
             "author": "Marco Arment and David Smith",
-            "site_url": "https://www.relay.fm/radar",
-            "feed_url": "https://www.relay.fm/radar/feed"
+            "site_url": "https://relay.fm/radar",
+            "feed_url": "https://relay.fm/radar/feed"
           },
           {
             "title": "Waiting for Review",
