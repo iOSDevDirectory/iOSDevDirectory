@@ -1559,6 +1559,16 @@
             "feed_url": "https://emptytheory.com/feed/"
           },
           {
+            "title": "Emre Degirmenci’s blog",
+            "author": "Emre Degirmenci",
+            "site_url": "https://emredegirmenci.substack.com/",
+            "feed_url": "https://emredegirmenci.substack.com/feed",
+            "bluesky_url": "https://bsky.app/profile/emredeg.bsky.social",
+            "mastodon_url": "https://mastodon.social/@aemre",
+            "x_url": "https://x.com/emrdgrmnci",
+            "github_url": "https://github.com/emrdgrmnci"
+          },
+          {
             "title": "Emre Havan on Medium",
             "author": "Emre Havan",
             "site_url": "https://emrehavan.medium.com/",
@@ -4783,16 +4793,6 @@
             "site_url": "https://www.zoesmith.io/",
             "feed_url": "https://www.zoesmith.io/index.xml",
             "x_url": "https://x.com/zoejessica"
-          },
-          {
-            "title": "Emre Degirmenci’s blog",
-            "author": "Emre Degirmenci",
-            "site_url": "https://emredegirmenci.substack.com/",
-            "feed_url": "https://emredegirmenci.substack.com/feed",
-            "bluesky_url": "https://bsky.app/profile/emredeg.bsky.social",
-            "mastodon_url": "https://mastodon.social/@aemre",
-            "x_url": "https://x.com/emrdgrmnci",
-            "github_url": "https://github.com/emrdgrmnci"
           }
         ]
       },
