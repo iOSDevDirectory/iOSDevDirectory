@@ -1348,6 +1348,16 @@
             "x_url": "https://x.com/rderik"
           },
           {
+            "title": "Derived Data",
+            "author": "Reda Lemeden",
+            "site_url": "https://redalemeden.com/derived-data",
+            "feed_url": "https://redalemeden.com/derived-data-feed.xml",
+            "mastodon_url": "https://mastodon.social/@redalemeden",
+            "github_url": "https://github.com/kaishin",
+            "x_url": "https://x.com/kaishin",
+            "linkedin_url": "https://se.linkedin.com/in/reda-lemeden"
+          },
+          {
             "title": "Detlev Voss' Blog",
             "author": "Detlev Voss",
             "site_url": "https://apps.advoss.de/en/blog.html",
