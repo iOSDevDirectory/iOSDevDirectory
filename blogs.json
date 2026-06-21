@@ -3693,6 +3693,15 @@
             "feed_url": "https://rwapp.co.uk/feed.rss"
           },
           {
+            "title": "RocketSim Blog",
+            "author": "Antoine van der Lee",
+            "site_url": "https://www.rocketsim.app/blog/",
+            "feed_url": "https://www.rocketsim.app/rss.xml",
+            "github_url": "https://github.com/AvdLee/RocketSimApp",
+            "linkedin_url": "https://linkedin.com/company/rocketsim",
+            "x_url": "https://x.com/rocketsim_app"
+          },
+          {
             "title": "Rod Schmidt: Thoughts on Software Development",
             "author": "Rod Schmidt",
             "site_url": "https://rodschmidt.com/",
