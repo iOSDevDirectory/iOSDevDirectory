@@ -3730,7 +3730,7 @@
             "title": "Roland Leth’s Blog",
             "author": "Roland Leth",
             "site_url": "https://roland.leth.ro/",
-            "feed_url": "https://roland.leth.ro/feed",
+            "feed_url": "https://roland.leth.ro/api/feed/tech",
             "x_url": "https://x.com/rolandleth"
           },
           {
