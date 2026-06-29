@@ -725,7 +725,7 @@
             "title": "Brent Deverman's Thoughts",
             "author": "Brent Deverman",
             "site_url": "https://deverman.org",
-            "feed_url": "https://deverman.org/rss",
+            "feed_url": "https://deverman.org/rss.xml",
             "bluesky_url": "https://bsky.app/profile/deverman.org",
             "mastodon_url": "https://iosdev.space/@Deverman",
             "threads_url": "https://www.threads.com/@bdeverman",
