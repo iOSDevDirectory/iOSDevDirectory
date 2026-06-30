@@ -81,6 +81,17 @@
         "description": "No matter if it covers Swift or Objective-C, whether it’s focused on app architecture or UI coding. As long as it’s related to Apple platform development then it belongs here.",
         "sites": [
           {
+            "title": "#365DaysIOSAccessibility",
+            "author": "Daniel Devesa Derksen-Staats",
+            "site_url": "https://accessibilityupto11.com/365-days-ios-accessibility/",
+            "feed_url": "https://accessibilityupto11.com/365-days-feed.rss",
+            "bluesky_url": "https://bsky.app/profile/dadederk.bsky.social",
+            "github_url": "https://github.com/dadederk",
+            "linkedin_url": "https://www.linkedin.com/in/danieldevesa/",
+            "mastodon_url": "https://iosdev.space/@dadederk",
+            "x_url": "https://x.com/dadederk"
+          },
+          {
             "title": "/var/log/journal",
             "author": "Gaël Foppolo",
             "site_url": "https://journal.gaelfoppolo.com",
@@ -98,6 +109,17 @@
             "author": "Aaron Sky",
             "site_url": "https://skyaaron.com/",
             "feed_url": "https://skyaaron.com/posts/index.xml"
+          },
+          {
+            "title": "Accessibility up to 11!",
+            "author": "Daniel Devesa Derksen-Staats",
+            "site_url": "https://accessibilityupto11.com/blog/",
+            "feed_url": "https://accessibilityupto11.com/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/dadederk.bsky.social",
+            "github_url": "https://github.com/dadederk",
+            "linkedin_url": "https://www.linkedin.com/in/danieldevesa/",
+            "mastodon_url": "https://iosdev.space/@dadederk",
+            "x_url": "https://x.com/dadederk"
           },
           {
             "title": "ackermann.io",
@@ -1136,13 +1158,6 @@
             "author": "César Vargas Casaseca",
             "site_url": "https://toupper.medium.com",
             "feed_url": "https://medium.com/feed/@toupper"
-          },
-          {
-            "title": "Dadederk",
-            "author": "Daniel Devesa Derksen-Staats",
-            "site_url": "https://accessibilityupto11.com/",
-            "feed_url": "https://accessibilityupto11.com/feed.rss",
-            "x_url": "https://x.com/dadederk"
           },
           {
             "title": "Damian Mehers' Blog",
@@ -6119,6 +6134,17 @@
             "site_url": "https://www.youtube.com/channel/UCN0yF6AaJmqiPYXDz0CDfxA",
             "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCN0yF6AaJmqiPYXDz0CDfxA",
             "x_url": "https://x.com/zats"
+          },
+          {
+            "title": "iOS Accessibility: Up to 11!",
+            "author": "Daniel Devesa Derksen-Staats",
+            "site_url": "https://www.youtube.com/@iOSAccessibilityUpto11",
+            "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9gVOu5LvujGR3TgVHocuwQ",
+            "bluesky_url": "https://bsky.app/profile/dadederk.bsky.social",
+            "github_url": "https://github.com/dadederk",
+            "linkedin_url": "https://www.linkedin.com/in/danieldevesa/",
+            "mastodon_url": "https://iosdev.space/@dadederk",
+            "x_url": "https://x.com/dadederk"
           },
           {
             "title": "Jared Davidson on YouTube",
