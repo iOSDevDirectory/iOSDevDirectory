@@ -972,6 +972,14 @@
             "x_url": "https://x.com/ctietze"
           },
           {
+            "title": "Chukaufo's Blog",
+            "author": "Chuka Uwefoh",
+            "site_url": "https://blog.chukaufo.xyz/",
+            "feed_url": "https://blog.chukaufo.xyz/feed.xml",
+            "github_url": "https://github.com/chukaufo",
+            "linkedin_url": "https://linkedin.com/in/chuka-uwefoh-6183b3277"
+          },
+          {
             "title": "Coach Frank",
             "author": "Frank Courville",
             "site_url": "http://ioscoachfrank.com/",
