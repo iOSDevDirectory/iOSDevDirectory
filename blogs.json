@@ -5543,6 +5543,15 @@
             "x_url": "https://x.com/jtbrown"
           },
           {
+            "title": "RocketSim Blog",
+            "author": "Antoine van der Lee",
+            "site_url": "https://www.rocketsim.app/blog/",
+            "feed_url": "https://www.rocketsim.app/rss.xml",
+            "github_url": "https://github.com/AvdLee/RocketSimApp",
+            "linkedin_url": "https://linkedin.com/company/rocketsim",
+            "x_url": "https://x.com/rocketsim_app"
+          },
+          {
             "title": "Rosberry Blog",
             "author": "Rosberry Team",
             "site_url": "https://medium.com/rosberryapps/all?topic=ios",
