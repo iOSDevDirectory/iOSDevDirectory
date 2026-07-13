@@ -5391,6 +5391,12 @@
             "feed_url": "https://www.helixapps.co.uk/blog?format=rss"
           },
           {
+            "title": "Helm for App Store Connect",
+            "author": "Anima Software",
+            "site_url": "https://helm-app.com/changelog",
+            "feed_url": "https://helm-app.com/changelog/rss.xml"
+          },
+          {
             "title": "Hobbyist Software",
             "author": "Rob Jonson",
             "site_url": "https://blog.hobbyistsoftware.com/category/coding/apple/",
@@ -5682,12 +5688,6 @@
             "author": "Babs",
             "site_url": "https://verycuriousengineer.substack.com",
             "feed_url": "https://verycuriousengineer.substack.com/feed"
-          },
-          {
-            "title": "Helm for App Store Connect",
-            "author": "Anima Software",
-            "site_url": "https://helm-app.com/changelog",
-            "feed_url": "https://helm-app.com/changelog/rss.xml"
           }
         ]
       },
