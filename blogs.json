@@ -875,8 +875,8 @@
           {
             "title": "Cephalopod Studio",
             "author": "Matthew Waller",
-            "site_url": "https://www.cephalopod.studio/blog",
-            "feed_url": "https://www.cephalopod.studio/blog?format=rss",
+            "site_url": "https://www.cephalopod.studio/blog/",
+            "feed_url": "https://www.cephalopod.studio/blog/?format=rss",
             "x_url": "https://x.com/wattmaller1"
           },
           {
@@ -5545,7 +5545,7 @@
           {
             "title": "RevenueCat Blog",
             "author": "Jacob Eiting",
-            "site_url": "https://www.revenuecat.com/blog/",
+            "site_url": "https://www.revenuecat.com/blog",
             "feed_url": "https://www.revenuecat.com/blog/rss.xml",
             "x_url": "https://x.com/revenuecat"
           },
