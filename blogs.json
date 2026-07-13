@@ -5409,6 +5409,12 @@
             "feed_url": "https://medium.com/feed/@igornemenonok"
           },
           {
+            "title": "Inscribe Blog",
+            "author": "Josip Markovic",
+            "site_url": "https://get-inscribe.com/blog.html",
+            "feed_url": "https://get-inscribe.com/feed.xml"
+          },
+          {
             "title": "Inside PSPDFKit",
             "author": "PSPDFKit Team",
             "site_url": "https://www.nutrient.io/blog/",
