@@ -524,7 +524,7 @@
             "title": "Arnaud Joubay's Blog",
             "author": "Arnaud Joubay",
             "site_url": "https://sowenjub.me/",
-            "feed_url": "https://sowenjub.me/writes/rss/",
+            "feed_url": "https://sowenjub.me/writes/rss.xml",
             "mastodon_url": "https://mastodon.social/@sowenjub",
             "x_url": "https://x.com/sowenjub"
           },
@@ -5544,7 +5544,7 @@
           {
             "title": "Requestly Blog",
             "author": "Requestly Team",
-            "site_url": "https://requestly.com/blog/category/mobile-development/ios-development/",
+            "site_url": "https://requestly.com/blog/category/mobile-development/",
             "feed_url": "https://requestly.com/blog/category/mobile-development/ios-development/feed/",
             "x_url": "https://x.com/requestlyIO"
           },
