@@ -2073,7 +2073,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog/",
+            "site_url": "https://dopebase.com/blog",
             "feed_url": "https://iosapptemplates.com/blog/rss.xml",
             "x_url": "https://x.com/0xflorian"
           },
@@ -3378,7 +3378,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/posts_feed",
+            "feed_url": "https://otavio.cc/posts_feed/",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
