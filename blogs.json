@@ -5184,9 +5184,9 @@
           },
           {
             "title": "bitdrift's mobile observability blog",
-            "author": "Pete Morelli, Matt Klein, Collin Anderson, Iain Finlayson",
+            "author": "bitdrift Team",
             "site_url": "https://blog.bitdrift.io/",
-            "feed_url": "https://blog.bitdrift.io/feed/full.xml",
+            "feed_url": "https://blog.bitdrift.io/feed.xml",
             "bluesky_url": "https://bsky.app/profile/bitdrift.io",
             "mastodon_url": "https://social.bitdrift.io/@bitdrift",
             "x_url": "https://x.com/bitdriftio",
