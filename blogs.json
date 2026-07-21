@@ -5183,6 +5183,17 @@
             "x_url": "https://x.com/bitrise"
           },
           {
+            "title": "bitdrift's mobile observability blog",
+            "author": "bitdrift Team",
+            "site_url": "https://blog.bitdrift.io/",
+            "feed_url": "https://blog.bitdrift.io/feed.xml",
+            "bluesky_url": "https://bsky.app/profile/bitdrift.io",
+            "mastodon_url": "https://social.bitdrift.io/@bitdrift",
+            "x_url": "https://x.com/bitdriftio",
+            "github_url": "https://github.com/bitdriftlabs",
+            "linkedin_url": "https://www.linkedin.com/company/bitdrift/"
+          },
+          {
             "title": "Blueground's Engineering Blog",
             "author": "iOS Engineers @ Blueground",
             "site_url": "https://engineering.theblueground.com/",
