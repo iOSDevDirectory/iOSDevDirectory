@@ -5169,6 +5169,17 @@
             "feed_url": "https://medium.com/feed/asos-techblog/tagged/ios"
           },
           {
+            "title": "bitdrift's mobile observability blog",
+            "author": "bitdrift Team",
+            "site_url": "https://blog.bitdrift.io/",
+            "feed_url": "https://blog.bitdrift.io/feed.xml",
+            "bluesky_url": "https://bsky.app/profile/bitdrift.io",
+            "mastodon_url": "https://social.bitdrift.io/@bitdrift",
+            "x_url": "https://x.com/bitdriftio",
+            "github_url": "https://github.com/bitdriftlabs",
+            "linkedin_url": "https://www.linkedin.com/company/bitdrift/"
+          },
+          {
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
             "site_url": "https://bitrig.com/blog",
@@ -5181,17 +5192,6 @@
             "site_url": "https://bitrise.io/blog",
             "feed_url": "https://bitrise.io/blog/post/rss.xml",
             "x_url": "https://x.com/bitrise"
-          },
-          {
-            "title": "bitdrift's mobile observability blog",
-            "author": "bitdrift Team",
-            "site_url": "https://blog.bitdrift.io/",
-            "feed_url": "https://blog.bitdrift.io/feed.xml",
-            "bluesky_url": "https://bsky.app/profile/bitdrift.io",
-            "mastodon_url": "https://social.bitdrift.io/@bitdrift",
-            "x_url": "https://x.com/bitdriftio",
-            "github_url": "https://github.com/bitdriftlabs",
-            "linkedin_url": "https://www.linkedin.com/company/bitdrift/"
           },
           {
             "title": "Blueground's Engineering Blog",
