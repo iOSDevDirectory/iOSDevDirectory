@@ -5337,8 +5337,8 @@
           {
             "title": "Flutter Blog",
             "author": "Flutter Team",
-            "site_url": "https://blog.flutter.dev/",
-            "feed_url": "https://blog.flutter.dev/feed",
+            "site_url": "https://flutter.dev/blog",
+            "feed_url": "https://flutter.dev/blog/feed",
             "x_url": "https://x.com/flutterdev"
           },
           {
