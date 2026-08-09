@@ -3168,12 +3168,6 @@
             "mastodon_url": "https://mastodon.social/@neilgmacy"
           },
           {
-            "title": "Nexus Shell Engineering",
-            "author": "Sameral",
-            "site_url": "https://nexusshell.hashnode.dev/",
-            "feed_url": "https://nexusshell.hashnode.dev/rss.xml"
-          },
-          {
             "title": "Niamh Power on Medium",
             "author": "Niamh Power",
             "site_url": "https://medium.com/@niamhpower",
@@ -5517,6 +5511,12 @@
             "site_url": "https://www.netguru.com/blog/topic/ios",
             "feed_url": "https://www.netguru.com/blog/topic/ios/rss.xml",
             "x_url": "https://x.com/netguru"
+          },
+          {
+            "title": "Nexus Shell Engineering",
+            "author": "Sameral",
+            "site_url": "https://nexusshell.hashnode.dev/",
+            "feed_url": "https://nexusshell.hashnode.dev/rss.xml"
           },
           {
             "title": "Novoda Blog",
