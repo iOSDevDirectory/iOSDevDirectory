@@ -2902,6 +2902,13 @@
             "x_url": "https://x.com/atimca"
           },
           {
+            "title": "McMizzle",
+            "author": "Kevin McMahon",
+            "site_url": "https://mcmizzle.com/blog/",
+            "feed_url": "https://mcmizzle.com/blog/feed.xml",
+            "github_url": "https://github.com/mcmizzle"
+          },
+          {
             "title": "Megi Sila on Medium",
             "author": "Megi Sila",
             "site_url": "https://medium.com/@meggsila",
