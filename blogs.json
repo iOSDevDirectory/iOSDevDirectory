@@ -5513,6 +5513,12 @@
             "x_url": "https://x.com/netguru"
           },
           {
+            "title": "Nexus Shell Engineering",
+            "author": "Sameral",
+            "site_url": "https://nexusshell.hashnode.dev/",
+            "feed_url": "https://nexusshell.hashnode.dev/rss.xml"
+          },
+          {
             "title": "Novoda Blog",
             "author": "Novoda Team",
             "site_url": "https://novoda.com/blog/",
