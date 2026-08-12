@@ -2909,6 +2909,13 @@
             "github_url": "https://github.com/mcmizzle"
           },
           {
+            "title": "Mechanical Turk",
+            "author": "Trevor Turk",
+            "site_url": "https://trevorturk.github.io",
+            "feed_url": "https://trevorturk.github.io/feed/by_tag/ios.xml",
+            "github_url": "https://github.com/trevorturk"
+          },
+          {
             "title": "Megi Sila on Medium",
             "author": "Megi Sila",
             "site_url": "https://medium.com/@meggsila",
