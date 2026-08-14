@@ -4701,6 +4701,15 @@
             "x_url": "https://x.com/johnbrayton"
           },
           {
+            "title": "Vision Engineer",
+            "author": "Tony Morales",
+            "site_url": "https://vision.engineer/",
+            "feed_url": "https://vision.engineer/feed.rss",
+            "bluesky_url": "https://bsky.app/profile/vision.engineer",
+            "github_url": "https://github.com/robomex",
+            "linkedin_url": "https://www.linkedin.com/in/atmorales0/"
+          },
+          {
             "title": "Vlad Butko's Blog",
             "author": "Vlad Butko",
             "site_url": "https://www.vbutko.com",
