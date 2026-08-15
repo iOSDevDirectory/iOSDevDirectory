@@ -6021,6 +6021,12 @@
             "x_url": "https://x.com/bugorbn"
           },
           {
+            "title": "The iOS Weekly Brief",
+            "author": "Vlad Khambir",
+            "site_url": "https://iosweeklybrief.com/",
+            "feed_url": "https://iosweeklybrief.com/feed"
+          },
+          {
             "title": "Mobile Automation Newsletter",
             "author": "Alexey Alter-Pesotskiy",
             "site_url": "https://testableapple.com/newsletter/",
