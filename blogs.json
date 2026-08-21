@@ -2478,6 +2478,13 @@
             "x_url": "https://x.com/n_randall"
           },
           {
+            "title": "kouworks",
+            "author": "Kou",
+            "site_url": "https://en.kou-works.jp",
+            "feed_url": "https://en.kou-works.jp/rss.xml",
+            "github_url": "https://github.com/hibinokou-spec"
+          },
+          {
             "title": "Kristaps Grinbergs’s Blog",
             "author": "Kristaps Grinbergs",
             "site_url": "https://kristaps.me",
