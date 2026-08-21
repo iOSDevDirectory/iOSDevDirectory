@@ -5502,6 +5502,12 @@
             "x_url": "https://x.com/martiancraft"
           },
           {
+            "title": "Me. engineering",
+            "author": "Oi Studios",
+            "site_url": "https://meapp.health/engineering/",
+            "feed_url": "https://meapp.health/engineering/feed.xml"
+          },
+          {
             "title": "Monstarlab Engineering Blog",
             "author": "Monstarlab",
             "site_url": "https://engineering.monstar-lab.com/en/",
