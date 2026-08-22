@@ -6052,6 +6052,12 @@
             "feed_url": "https://www.pixelpusher.club/feed"
           },
           {
+            "title": "Storefront Brief",
+            "author": "Fortune Insight, LLC",
+            "site_url": "https://fortune-insight.onrender.com/shop/",
+            "feed_url": "https://fortune-insight.onrender.com/shop/feed.xml"
+          },
+          {
             "title": "Swift Developments",
             "author": "Andy Bargh",
             "site_url": "https://andybargh.com/swiftdevelopments/",
