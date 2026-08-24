@@ -4819,6 +4819,14 @@
             "x_url": "https://x.com/XRealityZone"
           },
           {
+            "title": "Xtend Journal",
+            "author": "Mendy Aouizerat",
+            "site_url": "https://getxtend.com/blog/",
+            "feed_url": "https://getxtend.com/blog/feed.xml",
+            "github_url": "https://github.com/mendidou",
+            "linkedin_url": "https://www.linkedin.com/in/mendy-aouizerat/"
+          },
+          {
             "title": "Yaacoub",
             "author": "Peter Yaacoub",
             "site_url": "https://yaacoub.github.io/articles/",
