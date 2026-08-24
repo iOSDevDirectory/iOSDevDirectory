@@ -842,7 +842,7 @@
             "title": "carpeaqua",
             "author": "Justin Williams",
             "site_url": "https://www.justinw.me/",
-            "feed_url": "https://www.justinw.me/rss/",
+            "feed_url": "https://www.justinw.me/blog/rss/",
             "x_url": "https://x.com/justin"
           },
           {
@@ -4856,8 +4856,8 @@
           {
             "title": "YoSwift",
             "author": "Manoj Karki",
-            "site_url": "https://www.atridemy.com/",
-            "feed_url": "https://www.atridemy.com/",
+            "site_url": "https://monitor-incardio.com/",
+            "feed_url": "https://monitor-incardio.com/",
             "x_url": "https://x.com/mskarki"
           },
           {
@@ -5475,8 +5475,8 @@
           {
             "title": "Inscribe Blog",
             "author": "Josip Markovic",
-            "site_url": "https://get-inscribe.com/blog.html",
-            "feed_url": "https://get-inscribe.com/feed.xml"
+            "site_url": "https://lyonesse.app/blog.html",
+            "feed_url": "https://lyonesse.app/feed.xml"
           },
           {
             "title": "Inside PSPDFKit",
