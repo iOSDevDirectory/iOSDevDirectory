@@ -1,1 +1,12 @@
-PLACEHOLDER_REPLACE_WITH_EXACT_FILE
+[
+  {
+    "language": "en",
+    "title": "English Language",
+    "categories": [
+      {
+        "title": "Platform and SDK Updates",
+        "slug": "updates"
+      }
+    ]
+  }
+]
