@@ -980,6 +980,13 @@
             "linkedin_url": "https://linkedin.com/in/chuka-uwefoh-6183b3277"
           },
           {
+            "title": "Circadian Notes",
+            "author": "Matthew Ball",
+            "site_url": "https://abendrot.app/blog/",
+            "feed_url": "https://abendrot.app/rss.xml",
+            "github_url": "https://github.com/matthewrball"
+          },
+          {
             "title": "Coach Frank",
             "author": "Frank Courville",
             "site_url": "http://ioscoachfrank.com/",
