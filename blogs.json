@@ -3869,6 +3869,17 @@
             "x_url": "https://x.com/raheel"
           },
           {
+            "title": "Salari",
+            "author": "Mike Salari",
+            "site_url": "https://salari.dev",
+            "feed_url": "https://salari.dev/rss.xml",
+            "mastodon_url": "https://mastodon.social/@Mikesalari",
+            "threads_url": "https://www.threads.com/@salari.dev",
+            "x_url": "https://x.com/salaridev",
+            "github_url": "https://github.com/salari-dev",
+            "linkedin_url": "https://www.linkedin.com/in/mike-salari/"
+          },
+          {
             "title": "Sam Dods’s Blog",
             "author": "Sam Dods",
             "site_url": "https://medium.com/@sdods",
