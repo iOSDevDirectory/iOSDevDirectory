@@ -599,7 +599,7 @@
           {
             "title": "AudioKit Blog",
             "author": "AudioKit",
-            "site_url": "https://audiokitpro.com/blog/",
+            "site_url": "https://audiokitpro.com/blog-2/",
             "feed_url": "https://audiokitpro.com/feed/",
             "x_url": "https://x.com/audiokitpro"
           },
@@ -5813,7 +5813,7 @@
           {
             "title": "Compile Swift",
             "author": "Peter Witham",
-            "site_url": "https://www.compileswift.com/",
+            "site_url": "https://peterwitham.com/",
             "feed_url": "https://feeds.transistor.fm/compile-swift",
             "x_url": "https://x.com/compileswift"
           },
