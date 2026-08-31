@@ -4030,6 +4030,13 @@
             "x_url": "https://x.com/nakodark"
           },
           {
+            "title": "Silent Spice",
+            "author": "Lismond Bernard",
+            "site_url": "https://silentspice.substack.com",
+            "feed_url": "https://silentspice.substack.com/feed",
+            "github_url": "https://github.com/lismondbernard"
+          },
+          {
             "title": "Simon Fairbairn’s Blog",
             "author": "Simon Fairbairn",
             "site_url": "https://simonfairbairn.com/tag/swift/",
