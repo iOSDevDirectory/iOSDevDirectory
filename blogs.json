@@ -5702,6 +5702,13 @@
             "x_url": "https://x.com/RunwayTeam"
           },
           {
+            "title": "SecretScan Privacy Guides",
+            "author": "Dmytro Polianskyi",
+            "site_url": "https://mityapolianskii.github.io/secretscan-app-store-pages/guides.html",
+            "feed_url": "https://mityapolianskii.github.io/secretscan-app-store-pages/feed.xml",
+            "github_url": "https://github.com/mityapolianskii"
+          },
+          {
             "title": "SHAPE Code Blog",
             "author": "SHAPE Team",
             "site_url": "http://codeblog.shape.dk/",
