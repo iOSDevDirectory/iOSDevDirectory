@@ -3986,6 +3986,13 @@
             "x_url": "https://x.com/sebastianroehl"
           },
           {
+            "title": "Sensitivity Apple Privacy Engineering Notes",
+            "author": "Dmytro Polianskyi",
+            "site_url": "https://sensitivityscan.com/learn",
+            "feed_url": "https://sensitivityscan.com/developer-feed.xml",
+            "github_url": "https://github.com/MityaPolianskii"
+          },
+          {
             "title": "Serhii Kharauzov on Medium",
             "author": "Serhii Kharauzov",
             "site_url": "https://medium.com/@sergkharauzov",
