@@ -5160,6 +5160,15 @@
             "x_url": "https://x.com/jcieplinski"
           },
           {
+            "title": "Martin Grüner’s Blog",
+            "author": "Martin Grüner",
+            "site_url": "https://martingruner.com/blog",
+            "feed_url": "https://martingruner.com/feed.xml",
+            "bluesky_url": "https://bsky.app/profile/grunersoftware.bsky.social",
+            "x_url": "https://x.com/grunersoftware",
+            "github_url": "https://github.com/MartinGryner"
+          },
+          {
             "title": "Mobile Ad.ventures",
             "author": "Thomas Petit",
             "site_url": "https://madv.substack.com/",
