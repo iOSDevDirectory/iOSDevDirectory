@@ -5827,6 +5827,12 @@
             "author": "Babs",
             "site_url": "https://verycuriousengineer.substack.com",
             "feed_url": "https://verycuriousengineer.substack.com/feed"
+          },
+          {
+            "title": "FeedsBar engineering",
+            "author": "Graeme Chard",
+            "site_url": "https://feeds.bar/writing/",
+            "feed_url": "https://feeds.bar/feed.xml"
           }
         ]
       },
