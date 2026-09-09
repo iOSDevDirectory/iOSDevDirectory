@@ -5557,6 +5557,13 @@
             "x_url": "https://x.com/lickability"
           },
           {
+            "title": "Manzanita Blog",
+            "author": "Manzanita",
+            "site_url": "https://manzanita.run/blog/",
+            "feed_url": "https://manzanita.run/blog/rss.xml",
+            "github_url": "https://github.com/secondloop"
+          },
+          {
             "title": "MartianCraft: The Syndicate",
             "author": "MartianCraft Team",
             "site_url": "https://martiancraft.com/blog/",
