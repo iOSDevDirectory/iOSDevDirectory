@@ -5124,6 +5124,12 @@
         "description": "All of the Apple platform business and marketing related blogs. Articles on pricing experiments, ASO, reviews, ratings, case studies etc.",
         "sites": [
           {
+            "title": "AppDrift Blog",
+            "author": "AppDrift",
+            "site_url": "https://appdrift.co/blog",
+            "feed_url": "https://appdrift.co/feed.xml"
+          },
+          {
             "title": "Appfigures Resources",
             "author": "Appfigures Team",
             "site_url": "https://appfigures.com/resources",
