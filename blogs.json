@@ -5146,6 +5146,13 @@
             "x_url": "https://x.com/appfigures"
           },
           {
+            "title": "ASOScan Blog",
+            "author": "Khalil Kitar",
+            "site_url": "https://asoscan.com/blog",
+            "feed_url": "https://asoscan.com/api/blog/feed.xml",
+            "github_url": "https://github.com/ASOScan"
+          },
+          {
             "title": "Curtis Herbert’s Blog",
             "author": "Curtis Herbert",
             "site_url": "https://blog.curtisherbert.com/",
