@@ -3165,6 +3165,15 @@
             "feed_url": "https://medium.com/feed/@musakokcen"
           },
           {
+            "title": "Muhammad Zeeshan's Blog - Sharing Experiences",
+            "author": "Muhammad Zeeshan",
+            "site_url": "https://mzeeshan.me/blog",
+            "x_url": "https://x.com/mzeeshanid",
+            "github_url": "https://github.com/mzeeshanid",
+            "linkedin_url": "https://www.linkedin.com/in/mzeeshanid",
+            "microblog_url": "https://mzeeshan.me/blog/category/ios"
+          }
+          {
             "title": "MutatingFunc",
             "author": "James Froggatt",
             "site_url": "https://mutatingfunc.github.io",
