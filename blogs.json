@@ -3159,12 +3159,6 @@
             "feed_url": "https://mtldoc.com/feed.xml"
           },
           {
-            "title": "Musa Kökçen on Medium",
-            "author": "Musa Kökçen",
-            "site_url": "https://medium.com/@musakokcen",
-            "feed_url": "https://medium.com/feed/@musakokcen"
-          },
-          {
             "title": "Muhammad Zeeshan's Blog - Sharing Experiences",
             "author": "Muhammad Zeeshan",
             "site_url": "https://mzeeshan.me/blog",
@@ -3173,6 +3167,12 @@
             "github_url": "https://github.com/mzeeshanid",
             "linkedin_url": "https://www.linkedin.com/in/mzeeshanid",
             "microblog_url": "https://mzeeshan.me/blog/category/ios"
+          },
+          {
+            "title": "Musa Kökçen on Medium",
+            "author": "Musa Kökçen",
+            "site_url": "https://medium.com/@musakokcen",
+            "feed_url": "https://medium.com/feed/@musakokcen"
           },
           {
             "title": "MutatingFunc",
