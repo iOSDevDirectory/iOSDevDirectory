@@ -5795,6 +5795,13 @@
             "x_url": "https://x.com/GetSidetrack"
           },
           {
+            "title": "Simple Memo Dev Log",
+            "author": "YURIKA, K.K.",
+            "site_url": "https://simplememofast.com/en/devlog/",
+            "feed_url": "https://simplememofast.com/en/devlog/feed.xml",
+            "github_url": "https://github.com/simplememofast"
+          },
+          {
             "title": "Sketch Blog",
             "author": "Sketch Team",
             "site_url": "https://www.sketch.com/blog/",
