@@ -1122,8 +1122,8 @@
           {
             "title": "ComponentsKit's blog",
             "author": "ComponentsKit",
-            "site_url": "https://componentskit.io/",
-            "feed_url": "https://componentskit.io/blog/rss.xml",
+            "site_url": "https://componentskit.dev/",
+            "feed_url": "https://componentskit.dev/blog/rss.xml",
             "x_url": "https://x.com/componentskitio"
           },
           {
@@ -1340,7 +1340,7 @@
             "title": "David Sinclair’s Blog",
             "author": "David Sinclair",
             "site_url": "http://dejal.com/blog/",
-            "feed_url": "http://dejal.com/blog/feed/",
+            "feed_url": "http://dejal.com/blog/",
             "x_url": "https://x.com/dejus"
           },
           {
@@ -5406,7 +5406,7 @@
             "title": "Cossack Labs Blog",
             "author": "Cossack Labs",
             "site_url": "https://www.cossacklabs.com/tags/mobile/",
-            "feed_url": "https://www.cossacklabs.com/blog/index.xml",
+            "feed_url": "https://www.cossacklabs.com/blog/index.xml/",
             "x_url": "https://x.com/cossacklabs"
           },
           {
