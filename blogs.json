@@ -3812,6 +3812,14 @@
             "feed_url": "https://rwapp.co.uk/feed.rss"
           },
           {
+            "title": "Robin Winters's Blog",
+            "author": "Robin Winters",
+            "site_url": "https://robinwinters.github.io/writing/",
+            "feed_url": "https://robinwinters.github.io/feed.xml",
+            "github_url": "https://github.com/RobinWinters",
+            "linkedin_url": "https://www.linkedin.com/in/robinwinters-sf/"
+          },
+          {
             "title": "Rod Schmidt: Thoughts on Software Development",
             "author": "Rod Schmidt",
             "site_url": "https://rodschmidt.com/",
