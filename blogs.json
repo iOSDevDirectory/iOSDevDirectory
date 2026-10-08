@@ -2466,6 +2466,14 @@
             "x_url": "https://x.com/karolsmazur"
           },
           {
+            "title": "Karolina Samorek's Blog",
+            "author": "Karolina Samorek",
+            "site_url": "https://skarol.dev",
+            "feed_url": "https://skarol.dev/feed.rss",
+            "github_url": "https://github.com/skarol",
+            "linkedin_url": "https://www.linkedin.com/in/karolinasamorek/"
+          },
+          {
             "title": "Ken Kocienda's Blog",
             "author": "Ken Kocienda",
             "site_url": "https://kocienda.micro.blog",
