@@ -5818,6 +5818,13 @@
             "feed_url": "http://codeblog.shape.dk/atom.xml"
           },
           {
+            "title": "Shotnix Engineering Blog",
+            "author": "Omar Khaled",
+            "site_url": "https://shotnix.com/blog",
+            "feed_url": "https://shotnix.com/blog/feed.xml",
+            "github_url": "https://github.com/OMARVII"
+          },
+          {
             "title": "Sidetrack",
             "author": "James Sherlock",
             "site_url": "https://james.sidetrack.app/blog/",
