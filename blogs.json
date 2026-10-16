@@ -503,6 +503,12 @@
             "x_url": "https://x.com/AppsDissected"
           },
           {
+            "title": "Apps Done Wright",
+            "author": "Konstantin Wright",
+            "site_url": "https://appsdonewright.com/posts/",
+            "feed_url": "https://appsdonewright.com/index.xml",
+          },
+          {
             "title": "Appventure",
             "author": "Benedikt Terhechte",
             "site_url": "https://appventure.me/",
