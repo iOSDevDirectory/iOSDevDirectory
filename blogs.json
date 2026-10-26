@@ -5594,6 +5594,12 @@
             "feed_url": "https://feeds.bar/feed.xml"
           },
           {
+            "title": "FlowDeck Blog",
+            "author": "FlowDeck",
+            "site_url": "https://flowdeck.studio/blog",
+            "feed_url": "https://flowdeck.studio/rss.xml"
+          },
+          {
             "title": "Flutter Blog",
             "author": "Flutter Team",
             "site_url": "https://flutter.dev/blog",
