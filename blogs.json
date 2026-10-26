@@ -5024,6 +5024,11 @@
             "twitter_url": "https://twitter.com/flightdotschool"
           },
           {
+            "title": "FlowDeck Blog",
+            "author": "FlowDeck",
+            "site_url": "https://flowdeck.studio/blog"
+          },
+          {
             "title": "Flutter Medium",
             "author": "Flutter Team",
             "site_url": "https://medium.com/flutter",
