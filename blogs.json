@@ -5050,6 +5050,12 @@
             "x_url": "https://x.com/hirodusk"
           },
           {
+            "title": "AI Icon Creator Blog",
+            "author": "AI Icon Creator Team",
+            "site_url": "https://aiiconcreator.com/blog",
+            "feed_url": "https://aiiconcreator.com/blog/rss.xml"
+          },
+          {
             "title": "APPLORE Blog",
             "author": "APPLORE",
             "site_url": "https://applore.app/blog",
