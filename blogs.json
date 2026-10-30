@@ -773,6 +773,15 @@
             "x_url": "https://x.com/danielpunkass"
           },
           {
+            "title": "Boyucheng Zhang's Blog",
+            "author": "Boyucheng Zhang",
+            "site_url": "https://boyucheng.me/blog",
+            "feed_url": "https://boyucheng.me/rss.xml",
+            "x_url": "https://x.com/robottoox",
+            "github_url": "https://github.com/boyuchengz",
+            "linkedin_url": "https://www.linkedin.com/in/zbyc"
+          },
+          {
             "title": "Brad Root’s Blog",
             "author": "Brad Root",
             "site_url": "https://amiantos.net/",
