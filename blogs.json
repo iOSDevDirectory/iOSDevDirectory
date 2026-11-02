@@ -3398,6 +3398,13 @@
             "x_url": "https://x.com/NSProgrammer"
           },
           {
+            "title": "Obelisk Club",
+            "author": "Peter Zhang",
+            "site_url": "https://obelisk.club/blog",
+            "feed_url": "https://obelisk.club/feed/developers.xml",
+            "github_url": "https://github.com/peterzhang0216"
+          },
+          {
             "title": "Objective-See’s Blog",
             "author": "Patrick Wardle",
             "site_url": "https://objective-see.org/blog.html",
@@ -6880,6 +6887,13 @@
             "author": "Limboy无网不剩",
             "site_url": "https://limboy.me/",
             "feed_url": "http://feeds.feedburner.com/lzyy"
+          },
+          {
+            "title": "Obelisk Club 苹果开发者笔记",
+            "author": "Peter Zhang",
+            "site_url": "https://obelisk.club/blog?lang=zh",
+            "feed_url": "https://obelisk.club/feed/developers-zh.xml",
+            "github_url": "https://github.com/peterzhang0216"
           },
           {
             "title": "OneV’s Den",
