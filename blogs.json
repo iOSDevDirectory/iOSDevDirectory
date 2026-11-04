@@ -4574,6 +4574,14 @@
             "feed_url": "https://www.thermalcorner.net/index.xml"
           },
           {
+            "title": "The Swift Dev",
+            "author": "Trevor Whittingham",
+            "site_url": "https://www.theswift.dev",
+            "feed_url": "https://www.theswift.dev/posts/rss.xml",
+            "github_url": "https://github.com/twhitt14",
+            "linkedin_url": "https://www.linkedin.com/in/trevor-whittingham"
+          },
+          {
             "title": "Think & Build",
             "author": "Yari D’areglia",
             "site_url": "https://www.miglioricasinonoaams.it/",
