@@ -5290,6 +5290,12 @@
             "x_url": "https://x.com/ortwingentz"
           },
           {
+            "title": "GeoJSONic Field Notes",
+            "author": "Jason Dittmer",
+            "site_url": "https://geojsonic.com/blog",
+            "feed_url": "https://geojsonic.com/blog/rss.xml"
+          },
+          {
             "title": "GoMarketMe Blog",
             "author": "Toni Peinoit",
             "site_url": "https://gomarketme.co/blog/",
