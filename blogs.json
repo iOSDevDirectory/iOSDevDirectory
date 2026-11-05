@@ -4373,6 +4373,14 @@
             "x_url": "https://x.com/johnsundell"
           },
           {
+            "title": "The Swift Dev",
+            "author": "Trevor Whittingham",
+            "site_url": "https://www.theswift.dev",
+            "feed_url": "https://www.theswift.dev/posts/rss.xml",
+            "github_url": "https://github.com/twhitt14",
+            "linkedin_url": "https://www.linkedin.com/in/trevor-whittingham"
+          },
+          {
             "title": "Swift Dev Journal",
             "author": "Mark Szymczyk",
             "site_url": "https://www.swiftdevjournal.com/",
@@ -4579,14 +4587,6 @@
             "author": "Jonathan Ruiz",
             "site_url": "https://www.thermalcorner.net",
             "feed_url": "https://www.thermalcorner.net/index.xml"
-          },
-          {
-            "title": "The Swift Dev",
-            "author": "Trevor Whittingham",
-            "site_url": "https://www.theswift.dev",
-            "feed_url": "https://www.theswift.dev/posts/rss.xml",
-            "github_url": "https://github.com/twhitt14",
-            "linkedin_url": "https://www.linkedin.com/in/trevor-whittingham"
           },
           {
             "title": "Think & Build",
