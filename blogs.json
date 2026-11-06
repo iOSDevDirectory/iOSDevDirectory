@@ -5928,15 +5928,6 @@
             "feed_url": "http://codeblog.shape.dk/atom.xml"
           },
           {
-            "title": "SignOps Blog",
-            "author": "SignOps",
-            "site_url": "https://signops.dev/blog/",
-            "feed_url": "https://signops.dev/blog/rss.xml",
-            "github_url": "https://github.com/signops-dev",
-            "linkedin_url": "https://www.linkedin.com/company/signops",
-            "x_url": "https://x.com/SignOpsdev"
-          },
-          {
             "title": "Shotnix Engineering Blog",
             "author": "Omar Khaled",
             "site_url": "https://shotnix.com/blog",
@@ -5949,6 +5940,15 @@
             "site_url": "https://james.sidetrack.app/blog/",
             "feed_url": "https://james.sidetrack.app/blog/feed.xml",
             "x_url": "https://x.com/GetSidetrack"
+          },
+          {
+            "title": "SignOps Blog",
+            "author": "SignOps",
+            "site_url": "https://signops.dev/blog/",
+            "feed_url": "https://signops.dev/blog/rss.xml",
+            "github_url": "https://github.com/signops-dev",
+            "linkedin_url": "https://www.linkedin.com/company/signops",
+            "x_url": "https://x.com/SignOpsdev"
           },
           {
             "title": "Simple Memo Dev Log",
