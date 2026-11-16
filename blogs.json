@@ -5303,6 +5303,12 @@
             "x_url": "https://x.com/gomarketmetech"
           },
           {
+            "title": "Headloop Blog",
+            "author": "Quentin Fontenay",
+            "site_url": "https://headloop.app/blog",
+            "feed_url": "https://headloop.app/blog/rss.xml"
+          },
+          {
             "title": "Insert Affiliate Blog",
             "author": "Michael Butler",
             "site_url": "https://insertaffiliate.com/",
