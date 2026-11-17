@@ -2450,6 +2450,15 @@
             "feed_url": "https://jsorge.net/rss"
           },
           {
+            "title": "Juanpe Catalán's Blog",
+            "author": "Juanpe Catalán",
+            "site_url": "https://juanpecatalan.com/blog/",
+            "feed_url": "https://juanpecatalan.com/feed.xml",
+            "x_url": "https://x.com/JuanpeCatalan",
+            "github_url": "https://github.com/Juanpe",
+            "linkedin_url": "https://www.linkedin.com/in/juanpecatalan/"
+          },
+          {
             "title": "Julian Alonso's Blog",
             "author": "Julian Alonso",
             "site_url": "http://diariodeprogramacion.com/",
