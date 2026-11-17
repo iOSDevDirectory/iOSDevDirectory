@@ -5516,6 +5516,14 @@
             "x_url": "https://x.com/bugfenderapp"
           },
           {
+            "title": "Caddora build notes",
+            "author": "Caddora",
+            "site_url": "https://caddora.ie/blog",
+            "feed_url": "https://caddora.ie/blog/rss.xml",
+            "bluesky_url": "https://bsky.app/profile/caddora.bsky.social",
+            "x_url": "https://x.com/caddora_apps"
+          },
+          {
             "title": "The Capsized Eight",
             "author": "Infinum",
             "site_url": "https://infinum.com/blog/",
