@@ -5283,6 +5283,12 @@
             "x_url": "https://x.com/appfigures"
           },
           {
+            "title": "AppTrack Ninja Blog",
+            "author": "AppTrack Ninja",
+            "site_url": "https://apptrack.ninja/blog",
+            "feed_url": "https://apptrack.ninja/blog/rss.xml"
+          },
+          {
             "title": "ASOScan Blog",
             "author": "Khalil Kitar",
             "site_url": "https://asoscan.com/blog",
