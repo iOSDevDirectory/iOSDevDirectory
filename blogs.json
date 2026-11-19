@@ -4187,7 +4187,7 @@
             "title": "SintraWorks Blog",
             "author": "António Nunes",
             "site_url": "https://sintraworks.github.io",
-            "feed_url": "https://sintraworks.github.io/feed"
+            "feed_url": "https://sintraworks.github.io/feed/"
           },
           {
             "title": "skagedal’s oboy",
@@ -4606,7 +4606,7 @@
           {
             "title": "Think & Build",
             "author": "Yari D’areglia",
-            "site_url": "https://olimpiapallavolo.it/",
+            "site_url": "https://www.olimpiapallavolo.it/",
             "feed_url": "http://feeds.feedburner.com/ThinkAndBuild",
             "x_url": "https://x.com/bitwaker"
           },
@@ -5637,7 +5637,7 @@
             "title": "FlowDeck Blog",
             "author": "FlowDeck",
             "site_url": "https://flowdeck.studio/blog",
-            "feed_url": "https://flowdeck.studio/rss.xml"
+            "feed_url": "https://feed.flowdeck.studio/rss.xml"
           },
           {
             "title": "Flutter Blog",
