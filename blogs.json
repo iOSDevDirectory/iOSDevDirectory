@@ -5451,6 +5451,13 @@
             "x_url": "https://x.com/artsyopensource"
           },
           {
+            "title": "StepHaven Journal",
+            "author": "Brody Richmond",
+            "site_url": "https://stephaven.app/journal/",
+            "feed_url": "https://stephaven.app/journal/development.xml",
+            "github_url": "https://github.com/BMRich12"
+          },
+          {
             "title": "The ASOS Tech Blog",
             "author": "ASOS",
             "site_url": "https://medium.com/tag/ios",
