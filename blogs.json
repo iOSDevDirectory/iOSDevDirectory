@@ -5289,6 +5289,12 @@
             "feed_url": "https://apptrack.ninja/blog/rss.xml"
           },
           {
+            "title": "ASOMaster Blog",
+            "author": "Tarek Hosni",
+            "site_url": "https://asomaster.app/blog/",
+            "feed_url": "https://asomaster.app/blog/rss.xml"
+          },
+          {
             "title": "ASOScan Blog",
             "author": "Khalil Kitar",
             "site_url": "https://asoscan.com/blog",
