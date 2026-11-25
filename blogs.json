@@ -5006,6 +5006,14 @@
             "feed_url": "https://yaacoub.github.io/feed.xml"
           },
           {
+            "title": "Yardlet Blog",
+            "author": "zzunkie",
+            "site_url": "https://yardlet.app/blog/",
+            "feed_url": "https://yardlet.app/blog/feed.xml",
+            "x_url": "https://x.com/zzunkiedev",
+            "github_url": "https://github.com/zzunkie"
+          },
+          {
             "title": "YASB - Yet Another Swift Blog",
             "author": "Vadim Bulavin",
             "site_url": "https://www.vadimbulavin.com/",
