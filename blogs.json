@@ -3214,6 +3214,14 @@
             "x_url": "https://x.com/mokagio"
           },
           {
+            "title": "Morax Cheng's Blog",
+            "author": "Morax Cheng",
+            "site_url": "https://moraxcheng.me/blog",
+            "feed_url": "https://moraxcheng.me/rss.xml",
+            "x_url": "https://x.com/moraxc08",
+            "github_url": "https://github.com/fzlzjerry"
+          },
+          {
             "title": "More Indirection",
             "author": "Bill Atkins",
             "site_url": "https://moreindirection.wordpress.com/tag/ios/",
