@@ -1454,7 +1454,7 @@
           {
             "title": "Derived Data",
             "author": "Reda Lemeden",
-            "site_url": "https://redalemeden.com/derived-data",
+            "site_url": "https://redalemeden.com/derived-data/",
             "feed_url": "https://redalemeden.com/derived-data-feed.xml",
             "mastodon_url": "https://mastodon.social/@redalemeden",
             "github_url": "https://github.com/kaishin",
@@ -2799,8 +2799,8 @@
           {
             "title": "manu.show",
             "author": "Manu Herrera",
-            "site_url": "https://manu.show/",
-            "feed_url": "https://manu.show/feed.xml",
+            "site_url": "https://expireddomains.com/domain/manu.show?utm_source=redi",
+            "feed_url": "https://expireddomains.com/domain/manu.show?utm_source=redi",
             "x_url": "https://x.com/manu__show"
           },
           {
@@ -3530,7 +3530,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/posts_feed/",
+            "feed_url": "https://otavio.cc/posts_feed",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
@@ -4203,7 +4203,7 @@
             "title": "SintraWorks Blog",
             "author": "António Nunes",
             "site_url": "https://sintraworks.github.io",
-            "feed_url": "https://sintraworks.github.io/feed"
+            "feed_url": "https://sintraworks.github.io/feed/"
           },
           {
             "title": "skagedal’s oboy",
@@ -4622,7 +4622,7 @@
           {
             "title": "Think & Build",
             "author": "Yari D’areglia",
-            "site_url": "https://olimpiapallavolo.it/",
+            "site_url": "https://www.olimpiapallavolo.it/",
             "feed_url": "http://feeds.feedburner.com/ThinkAndBuild",
             "x_url": "https://x.com/bitwaker"
           },
@@ -5675,7 +5675,7 @@
             "title": "FlowDeck Blog",
             "author": "FlowDeck",
             "site_url": "https://flowdeck.studio/blog",
-            "feed_url": "https://flowdeck.studio/rss.xml"
+            "feed_url": "https://feed.flowdeck.studio/rss.xml"
           },
           {
             "title": "Flutter Blog",
@@ -6457,8 +6457,8 @@
           {
             "title": "SwiftLee Weekly",
             "author": "Antoine van der Lee",
-            "site_url": "https://www.avanderlee.com/swiftlee-weekly/",
-            "feed_url": "https://www.avanderlee.com/sendy/campaigns-rss?a=BsnOknY7S8XzvliyWwb8v741UnHIbq&i=1",
+            "site_url": "https://swiftlee-weekly.com/",
+            "feed_url": "https://swiftlee-weekly.com/rss.xml",
             "x_url": "https://x.com/twannl"
           },
           {
