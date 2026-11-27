@@ -4425,6 +4425,12 @@
             "x_url": "https://x.com/tiborbodecs"
           },
           {
+            "title": "Swift in Practice",
+            "author": "Bruno Valente",
+            "site_url": "https://swiftinpractice.com/",
+            "feed_url": "https://swiftinpractice.com/feed.xml"
+          },
+          {
             "title": "Swift on server",
             "author": "Joannis Orlandos and Tibor Bödecs",
             "site_url": "https://swiftonserver.com/",
